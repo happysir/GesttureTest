@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">  请用一笔完成一个手势</string>
+    <string name="app_name">GestureProject</string>
+</resources>
